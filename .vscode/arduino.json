@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "AVR ISP",
+    "port": "/dev/tty.usbmodem14401",
+    "sketch": "Arduino/distance-servo/distance-servo.ino"
+}
